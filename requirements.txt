@@ -1,7 +1,8 @@
-streamlit
-opencv-python-headless
+flask
 numpy
-pandas
+opencv-python-headless
+joblib
+tensorflow==2.13.0
 scikit-learn
 pillow
-flask
+keras
