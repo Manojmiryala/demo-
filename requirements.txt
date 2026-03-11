@@ -1,8 +1,6 @@
 flask
+gunicorn
 numpy
 opencv-python-headless
-joblib
-tensorflow==2.13.0
 scikit-learn
-pillow
-keras
+joblib
